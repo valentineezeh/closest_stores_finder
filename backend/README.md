@@ -7,6 +7,9 @@ This is the simple implementation of the backend functionality that handles the 
 - MongoDB
 - Libaries: Es6, Babel-CLI, eslint, supertest, express, goeLib
 
+## API Backend Endpoint
+- https://jumbo-backend-test.herokuapp.com/
+
 # Features
 - Script that handle bulk insert of all stores in the json file into mongoDB
 - User can fetch all stores vai an api call
