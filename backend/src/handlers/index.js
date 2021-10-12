@@ -32,7 +32,6 @@ export default class StoreController {
      * @returns {Object} returns list of stores
      */
   static async NearByStores(req, res) {
-    // NOT I might not need this function
     try {
       const storePicked = req.body;
       const getAllStores = await StoreService.StoreList();

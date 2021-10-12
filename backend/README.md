@@ -27,7 +27,7 @@ This is the simple implementation of the backend functionality that handles the 
 - run `npm heroku-postbuild` to transpile and run build files
 - `npm start` to run the build app in production environment
 - npm run `dev` to run development environment
-- `npm test` to run the test suits on the app
+- `npm run test` to run the test suits on the app
 
 ## AUTHOR
 [Valentine Ezeh](https://github.com/valentineezeh/closest_stores_finder)
